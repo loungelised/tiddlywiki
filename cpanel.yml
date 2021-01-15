@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/sembl/public_html/song
-    - /bin/cp -R * $DEPLOYPATH
